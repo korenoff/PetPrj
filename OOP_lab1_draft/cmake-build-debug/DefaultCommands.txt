@@ -1,0 +1,11 @@
+up-w
+down-s
+left-a
+right-d
+double up-t
+double down-g
+double left-f
+double right-h
+exit-e
+save-q
+load-l
